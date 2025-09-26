@@ -1,0 +1,19 @@
+{
+  "name": "software-dev-course-boolean-expressions-and-conditional-statements",
+  "version": "1.0.0",
+  "main": "boolean-expressions-and-conditional-statements.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-me:gracepal/software-dev-course-boolean-expressions-and-conditional-statements.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
